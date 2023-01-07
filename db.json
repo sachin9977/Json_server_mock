@@ -19,15 +19,12 @@
         "Price": 800000
         }
     ],
-    "wishlisted_cars": [
+    "users": [
         {
           "id": 1,
-          "brand": "Tata",
-          "year": 2019,
-                "type":"Manual",
-          "kms": 10000,
-          "Description": "Tata Altroz with all original documents",
-          "Price": 500000
+          "name": "Tata",
+          "password":"1234",
+          "email":"abc@gmail.com"
         }
       ]
 }
